@@ -1,6 +1,10 @@
 # Coches
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
+Este projecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
+
+## Tecnologías
+
+Tecnologías: Angular, TypeScript, HTML, Bootstrap.
 
 ## Development server
 
